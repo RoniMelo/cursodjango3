@@ -1,0 +1,32 @@
+Ativar Virtual env
+cd Users
+cd Roni
+cd Desktop
+cd Curso Python Gregory
+cd curso
+cd venv
+cd Scripts
+activate
+
+Ativar venv linux e MAC
+venv/bin/activate
+
+Criar Projeto Django
+django-admin startproject blog
+
+Rodar o projeto Django
+python manage.py runserver
+
+Parar servidor
+ctrl + c
+
+Criar Tabelas no banco de Dados
+python manage.py migrate
+
+Criar Super Usuário
+python manage.py createsuperuser
+Usuários: roni senha: admin
+usuario: admin senha: admin
+
+Criar App
+python manage.py startapp website   
